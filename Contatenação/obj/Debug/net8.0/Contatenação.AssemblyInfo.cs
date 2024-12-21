@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contatenação")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bdc67ec6cf11b08a7fdac1ea99c856470aeb9c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b77fab6dfd4576145d749e1da5db6e644c7df380")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contatenação")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contatenação")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

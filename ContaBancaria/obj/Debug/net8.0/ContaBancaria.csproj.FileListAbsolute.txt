@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\Curso-C#\ContaBancaria\obj\Debug\net8.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Curso-C#\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\ContaBancaria\obj\Debug\net8.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Curso-C#\ContaBancaria\obj\Debug\net8.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\ContaBancaria\obj\Debug\net8.0\ContaBancaria.sourcelink.json

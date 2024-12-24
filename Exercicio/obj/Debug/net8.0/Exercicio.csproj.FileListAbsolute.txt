@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.sourcelink.json
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\bin\Debug\net8.0\Exercicio.exe
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\bin\Debug\net8.0\Exercicio.deps.json
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\bin\Debug\net8.0\Exercicio.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\bin\Debug\net8.0\Exercicio.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\bin\Debug\net8.0\Exercicio.pdb
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\refint\Exercicio.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.pdb
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\Exercicio.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Exercicio\obj\Debug\net8.0\ref\Exercicio.dll

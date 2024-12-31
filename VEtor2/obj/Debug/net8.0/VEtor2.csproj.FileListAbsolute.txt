@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\Curso-C#\VEtor2\obj\Debug\net8.0\VEtor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Curso-C#\VEtor2\obj\Debug\net8.0\VEtor2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\VEtor2\obj\Debug\net8.0\VEtor2.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Curso-C#\VEtor2\obj\Debug\net8.0\VEtor2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\VEtor2\obj\Debug\net8.0\VEtor2.sourcelink.json

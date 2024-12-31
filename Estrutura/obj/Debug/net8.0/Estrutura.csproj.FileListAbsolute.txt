@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.sourcelink.json
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\bin\Debug\net8.0\Estrutura.exe
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\bin\Debug\net8.0\Estrutura.deps.json
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\bin\Debug\net8.0\Estrutura.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\bin\Debug\net8.0\Estrutura.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\bin\Debug\net8.0\Estrutura.pdb
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\refint\Estrutura.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.pdb
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\Estrutura.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Estrutura\obj\Debug\net8.0\ref\Estrutura.dll

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.sourcelink.json
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\bin\Debug\net8.0\Enumeracao.exe
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\bin\Debug\net8.0\Enumeracao.deps.json
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\bin\Debug\net8.0\Enumeracao.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\bin\Debug\net8.0\Enumeracao.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\bin\Debug\net8.0\Enumeracao.pdb
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\refint\Enumeracao.dll
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.pdb
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\Enumeracao.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Curso-C#\Enumeracao\obj\Debug\net8.0\ref\Enumeracao.dll
